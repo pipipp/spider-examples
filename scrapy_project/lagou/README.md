@@ -11,8 +11,8 @@
 
 **result**
 
-![result](https://github.com/pipipp/spider_examples/blob/master/scrapy_project/lagou/show/result.PNG)
+![result](https://github.com/pipipp/spider-examples/blob/master/scrapy_project/lagou/show/result.PNG)
 
 **MongoDB**
 
-![MongoDB](https://github.com/pipipp/spider_examples/blob/master/scrapy_project/lagou/show/MongoDB.PNG)
+![MongoDB](https://github.com/pipipp/spider-examples/blob/master/scrapy_project/lagou/show/MongoDB.PNG)

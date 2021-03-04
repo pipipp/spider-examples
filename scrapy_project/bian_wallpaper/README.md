@@ -11,8 +11,8 @@
 
 **result/wallpapers**
 
-![wallpapers](https://github.com/pipipp/spider_examples/blob/master/scrapy_project/bian_wallpaper/show/result.JPG)
+![wallpapers](https://github.com/pipipp/spider-examples/blob/master/scrapy_project/bian_wallpaper/show/result.JPG)
 
 **MongoDB**
 
-![MongoDB](https://github.com/pipipp/spider_examples/blob/master/scrapy_project/bian_wallpaper/show/MongoDB.PNG)
+![MongoDB](https://github.com/pipipp/spider-examples/blob/master/scrapy_project/bian_wallpaper/show/MongoDB.PNG)
