@@ -1,0 +1,8 @@
+# IDES and editors
+/.idea/*
+/.vscode/*
+/.*/
+
+# virtualenv
+*.xml
+*.swp
